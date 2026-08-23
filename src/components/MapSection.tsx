@@ -208,7 +208,7 @@ export default function MapSection() {
               <img
                 ref={imgRef}
                 src={MAP_IMAGE}
-                alt="Bản đồ chỉ đường tới Triệu Tóc Đẹp, tiệm cắt tóc nữ ở Lái Thiêu, Thuận An"
+                alt="Bản đồ chỉ đường tới Tóc Đẹp, tiệm cắt tóc nữ ở Lái Thiêu, Thuận An"
                 loading="lazy"
                 decoding="async"
                 className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover/map:scale-[1.03]"
