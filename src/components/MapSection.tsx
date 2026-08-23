@@ -135,13 +135,13 @@ export default function MapSection() {
                   className="text-[11px] uppercase tracking-[0.3em] text-[#7a6b5d]"
                   style={{ fontFamily: "'JetBrains Mono', monospace" }}
                 >
-                  Triệu Tóc Đẹp
+                  Tóc Đẹp
                 </span>
                 <h3
                   className="text-[24px] leading-[1.2] text-[#2a221c] md:text-[28px]"
                   style={{ fontFamily: "'Newsreader', serif", fontWeight: 400 }}
                 >
-                  Triệu Tóc Đẹp
+                  Tóc Đẹp
                 </h3>
               </div>
 
