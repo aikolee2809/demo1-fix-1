@@ -69,7 +69,7 @@ export default function Stylists() {
               <div className="aspect-[4/5] overflow-hidden rounded-xl bg-[#f0ebe2]">
                 <img
                   src={stylist.img}
-                  alt={`${stylist.name}, ${stylist.role} tại Triệu Tóc Đẹp Lái Thiêu`}
+                  alt={`${stylist.name}, ${stylist.role} tại Lái Thiêu`}
                   loading="lazy"
                   decoding="async"
                   className="h-full w-full object-cover transition-transform duration-700 ease-out group-hover:scale-[1.03]"
