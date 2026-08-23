@@ -59,7 +59,7 @@ const Nav = forwardRef<HTMLElement>((_props, ref) => {
             className="text-white tracking-tighter hover:opacity-80 transition-opacity"
             style={{ fontFamily: "'Newsreader', serif", fontSize: '20px', lineHeight: '28px', fontWeight: 400 }}
           >
-            TRIỆU TÓC ĐẸP
+            TÓC ĐẸP
           </a>
         </div>
 
