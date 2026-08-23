@@ -35,7 +35,7 @@ export default function Footer() {
               Thuận An, Bình Dương<br />
               Lái Thiêu, Vietnam<br />
               094 277 70 09<br />
-              lienhe@trieutocdep.vn
+              lienhe@tocdep.vn
             </p>
           </div>
 
