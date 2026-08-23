@@ -56,7 +56,7 @@ export default function Stylists() {
             className="max-w-[640px] text-[15px] leading-[1.7] text-[#7a6b5d]"
             style={{ fontFamily: "'Inter', sans-serif" }}
           >
-            Đội ngũ thiết kế tóc tại Triệu Tóc Đẹp chuyên thiết kế & tư vấn kiểu các kiểu tóc phù hợp với từng cá nhân tại Lái Thiêu, Thuận An.
+            Đội ngũ thiết kế tóc chuyên tạo mẫu & tư vấn kiểu các kiểu tóc phù hợp với từng cá nhân tại Lái Thiêu, Thuận An.
           </p>
         </div>
 
