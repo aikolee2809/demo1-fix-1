@@ -71,7 +71,7 @@ const Hero = forwardRef<HTMLElement>((_props, ref) => {
               letterSpacing: '-0.01em',
             }}
           >
-            Triệu
+            T
             <br />
             Tóc Đẹp
           </h1>
